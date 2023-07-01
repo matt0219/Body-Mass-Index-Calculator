@@ -1,0 +1,30 @@
+#content {
+    background:linear-gradient(to bottom, black, white);
+    background-repeat: no-repeat;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    color: white
+}
+
+.container, input-container, button, #result, #weight, #height {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+input-container {
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+}
+
